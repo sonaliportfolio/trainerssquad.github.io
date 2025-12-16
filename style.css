@@ -11825,7 +11825,10 @@ body .modal-backdrop {
     hsl(224.06deg 99.04% 40.98%) 100%
   );
 }
-
+.rs-popular-courses.main-home.home12-style
+  .courses-item{
+    height:100%
+  }
 .rs-popular-courses.main-home.home12-style
   .courses-item
   .courses-grid
@@ -11835,7 +11838,6 @@ body .modal-backdrop {
   line-height: 25px;
   font-size: 17px;
   font-family: initial;
-  height: 70px;
   text-transform: capitalize;
 }
 
@@ -22886,7 +22888,7 @@ body .modal-backdrop {
   transition: all 0.3s ease;
   cursor: pointer;
   font-size: 15px;
-  margin: 0 10px;
+  margin: 6px 10px;
 }
 
 .badge-btn:hover {
@@ -23088,6 +23090,7 @@ body .modal-backdrop {
   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
   transition: all 0.3s ease;
   margin: 10px 0;
+  height: 100%;
 }
 
 .support-card:hover {
@@ -24260,6 +24263,7 @@ th {
   transition: 0.3s;
   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
   background-color: #fff;
+  height: 100%;
 }
 
 .course-card.style1:hover {
@@ -24312,7 +24316,6 @@ th {
   margin-bottom: 5px;
   line-height: 22px;
   text-align: center;
-  height: 50px;
 }
 
 .course-card .course-info h3 a {

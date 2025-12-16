@@ -1347,7 +1347,7 @@
         top: 60px;
     }
     .rs-testimonial.home12-style .testi-item {
-        padding: 100px 30px 40px 30px;
+        padding:10px;
         background-color: #ffffff;
         margin-right: 0px;
     }
@@ -3273,7 +3273,7 @@
         font-size: 25px;
     }
     .rs-testimonial.home12-style .testi-item {
-        padding: 100px 20px 40px 20px;
+        padding:10px;
     }
     .rs-event .event-item.home12-style .event-short .content-part .all-dates-time .address {
         padding-right: 0px;
