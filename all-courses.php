@@ -4,8 +4,8 @@
 <head>
     <!-- meta tag -->
     <meta charset="utf-8">
-    <title>Educavo - Education HTML Template</title>
-    <meta name="description" content="" >
+    <title>All-Courses</title>
+    <meta name="description" content="">
     <!-- responsive tag -->
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
