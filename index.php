@@ -1,0 +1,3266 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+  <!-- meta tag -->
+  <meta charset="utf-8" />
+  <title>
+    Professional Certification Training Courses Online | Trainers Squad
+  </title>
+  <meta name="description" content="" />
+  <!-- responsive tag -->
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- favicon -->
+  <link rel="apple-touch-icon" href="apple-touch-icon.html" />
+  <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png" />
+  <!-- Bootstrap v4.4.1 css -->
+  <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css" />
+  <!-- font-awesome css -->
+  <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.min.css" />
+  <!-- animate css -->
+  <link rel="stylesheet" type="text/css" href="assets/css/animate.css" />
+  <!-- owl.carousel css -->
+  <link rel="stylesheet" type="text/css" href="assets/css/owl.carousel.css" />
+  <!-- slick css -->
+  <link rel="stylesheet" type="text/css" href="assets/css/slick.css" />
+  <!-- off canvas css -->
+  <link rel="stylesheet" type="text/css" href="assets/css/off-canvas.css" />
+  <!-- linea-font css -->
+  <link rel="stylesheet" type="text/css" href="assets/fonts/linea-fonts.css" />
+  <!-- flaticon css  -->
+  <link rel="stylesheet" type="text/css" href="assets/fonts/flaticon.css" />
+  <!-- magnific popup css -->
+  <link rel="stylesheet" type="text/css" href="assets/css/magnific-popup.css" />
+  <!-- Main Menu css -->
+  <link rel="stylesheet" href="assets/css/rsmenu-main.css" />
+  <!-- spacing css -->
+  <link rel="stylesheet" type="text/css" href="assets/css/rs-spacing.css" />
+  <!-- style css -->
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <!-- responsive css -->
+  <link rel="stylesheet" type="text/css" href="assets/css/responsive.css" />
+  <style>
+    .marquee-carousel .owl-stage {
+      display: flex;
+      animation: moveLeft 25s linear infinite;
+    }
+
+    @keyframes moveLeft {
+      0% {
+        transform: translateX(0);
+      }
+
+      100% {
+        transform: translateX(-50%);
+      }
+    }
+  </style>
+  <!-- ✅ Font Awesome 5 (recommended) -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+</head>
+
+<body class="defult-home">
+  <!--Full width header Start-->
+  <?php include("include/header-1.php") ?>
+  <!--Full width header End-->
+
+  <!-- Main content Start -->
+  <div class="main-content">
+    <!-- Banner Section Start -->
+    <div id="rs-banner" class="rs-banner style10">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 pl-60 order-last">
+            <div class="img-part">
+              <video class="up-down-new" src="assets/images/banner/banner-video.mp4" autoplay muted loop
+                playsinline></video>
+
+              <!-- <img class="up-down-new" src="assets/images/banner/home12/1.png" alt="" /> -->
+            </div>
+          </div>
+          <div class="col-lg-6 pr-0">
+            <div class="banner-content">
+              <!-- AI Section -->
+              <div class="ai-text mt-5">
+                <h2 class="wow bounceInLeft" data-wow-delay="100ms" data-wow-duration="1000ms">
+                  The Future Isn’t Coming<br />It’s Generating...
+                </h2>
+
+                <p class="wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="3000ms">
+                  Learn
+                  <span class="highlight">GenAI &amp; Build AI Agent</span> –
+                  Hands On Training
+                </p>
+
+                <div class="mt-4 d-flex justify-content-center flex-wrap gap-3 wow fadeInUp" data-wow-delay="1500ms"
+                  data-wow-duration="2000ms">
+                  <div class="badge-btn wow fadeInUp">
+                    High-Demand Skills <i class="fas fa-external-link-alt"></i>
+                  </div>
+                  <div class="badge-btn wow fadeInUp">
+                    Career Certification <i class="fas fa-external-link-alt"></i>
+                  </div>
+                  <div class="badge-btn wow fadeInUp">
+                    Live Sessions <i class="fas fa-external-link-alt"></i>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="banner-intro-box">
+        <div class="shape-img">
+          <img class="up-down-new" src="assets/images/banner/home12/dotted-shape.png" alt="" />
+        </div>
+        <div class="intro-img">
+          <img class="spine2" src="assets/images/banner/home12/intro-box.png" alt="" />
+        </div>
+      </div>
+    </div>
+    <!-- Banner Section End -->
+    <!-- Team Section Start -->
+    <div id="rs-team" class="rs-team style1 orange-color pt-5">
+      <div class="container">
+        <div class="sec-title mb-2 md-mb-2">
+          <div class="sub-title orange">Instructor</div>
+          <h2 class="title mb-0">Expert Teachers</h2>
+        </div>
+
+        <div class="rs-carousel owl-carousel nav-style2 orange-color marquee-carousel" data-loop="true" data-items="4"
+          data-margin="30" data-autoplay="true" data-hoverpause="false" data-autoplay-timeout="1"
+          data-smart-speed="15000" data-dots="false" data-nav="false" data-center-mode="false" data-mobile-device="1"
+          data-ipad-device="2" data-md-device="4">
+
+          <div class="team-item">
+            <img src="assets/images/team/tarkeshwar.jpeg" alt="" />
+            <h4>Dr.Tarkeshwar</h4>
+            <p>Artificial Intelligenceand Generative AI specialist</p>
+            <div class="content-part">
+              <h4 class="name"><a href="#">Dr.Tarkeshwar</a></h4>
+              <span class="designation">Artificial Intelligenceand Generative AI specialist</span>
+              <p class="team-dis">Ex- 13+ years</p>
+            </div>
+          </div>
+
+          <div class="team-item">
+            <img src="assets/images/team/apurva.jpeg" alt="" />
+            <h4>Apoorva</h4>
+            <p>Workday consultant & Salesforce consultant</p>
+            <div class="content-part">
+              <h4 class="name"><a href="#">Apoorva</a></h4>
+              <span class="designation">Workday consultant & Salesforce consultant</span>
+              <p class="team-dis">Ex- 10+ years</p>
+            </div>
+          </div>
+
+          <div class="team-item">
+            <img src="assets/images/team/priyanka.jpeg" alt="" />
+            <h4>Priyanka</h4>
+            <p>Salesforce Specialist</p>
+            <div class="content-part">
+              <h4 class="name"><a href="#">Priyanka</a></h4>
+              <span class="designation">Salesforce Specialist</span>
+              <p class="team-dis">Ex- 8+ years</p>
+            </div>
+          </div>
+          <div class="team-item">
+            <img src="assets/images/team/naveer.jpeg" alt="" />
+            <h4>Naveen</h4>
+            <p>Salesforce Specialist & Workday consultant </p>
+            <div class="content-part">
+              <h4 class="name"><a href="#">Naveen</a></h4>
+              <span class="designation">Salesforce Specialist & Workday consultant</span>
+              <p class="team-dis">Ex- 6+ years</p>
+            </div>
+          </div>
+          <div class="team-item">
+            <img src="assets/images/team/mayak.jpeg" alt="" />
+            <h4>Mayank</h4>
+            <p>Data science specialist</p>
+            <div class="content-part">
+              <h4 class="name"><a href="#">Mayank</a></h4>
+              <span class="designation">Data science specialist</span>
+              <p class="team-dis">Ex- 5+ years</p>
+            </div>
+          </div>
+          <div class="team-item">
+            <img src="assets/images/team/aditi.jpeg" alt="" />
+            <h4>Aditi</h4>
+            <p>Salesforce consultant</p>
+            <div class="content-part">
+              <h4 class="name"><a href="#">Aditi</a></h4>
+              <span class="designation">Salesforce consultant</span>
+              <p class="team-dis">Ex- 4+ years</p>
+            </div>
+          </div>
+          <div class="team-item">
+            <img src="assets/images/team/ashwini.jpeg" alt="" />
+            <h4>Ashwini</h4>
+            <p>Software Testing Expert</p>
+            <div class="content-part">
+              <h4 class="name"><a href="#">Ashwini</a></h4>
+              <span class="designation">Software Testing Expert</span>
+              <p class="team-dis">Ex- 5+ years</p>
+            </div>
+          </div>
+          <div class="team-item">
+            <img src="assets/images/team/syed.jpeg" alt="" />
+            <h4>Syed </h4>
+            <p>Salesforce Consultant</p>
+            <div class="content-part">
+              <h4 class="name"><a href="#">Syed </a></h4>
+              <span class="designation">Salesforce Consultant</span>
+              <p class="team-dis">Ex- 8+ years</p>
+            </div>
+          </div>
+          <div class="team-item">
+            <img src="assets/images/team/mumtaz.jpeg" alt="" />
+            <h4>Mumtaz</h4>
+            <p>Salesforce Specialist</p>
+            <div class="content-part">
+              <h4 class="name"><a href="#">Mumtaz</a></h4>
+              <span class="designation">Salesforce Specialist</span>
+              <p class="team-dis">Ex- 11+ years</p>
+            </div>
+          </div>
+          <div class="team-item">
+            <img src="assets/images/team/deepati.jpeg" alt="" />
+            <h4>Deepti</h4>
+            <p>Workday Consultant</p>
+            <div class="content-part">
+              <h4 class="name"><a href="#">Deepti</a></h4>
+              <span class="designation">Workday Consultant</span>
+              <p class="team-dis">Ex- 3+ years</p>
+            </div>
+          </div>
+          <div class="team-item">
+            <img src="assets/images/team/rupali.jpeg" alt="" />
+            <h4>Rupali</h4>
+            <p>Placement head</p>
+            <div class="content-part">
+              <h4 class="name"><a href="#">Rupali</a></h4>
+              <span class="designation">Placement head</span>
+              <p class="team-dis">Ex- 8+ years</p>
+            </div>
+          </div>
+          <div class="team-item">
+            <img src="assets/images/team/gaurva.jpeg" alt="" />
+            <h4>Gaurav</h4>
+            <p>Digital Marketing</p>
+            <div class="content-part">
+              <h4 class="name"><a href="#">Gaurav</a></h4>
+              <span class="designation">Digital Marketing</span>
+              <p class="team-dis">Ex- 8+ years</p>
+            </div>
+          </div>
+          <div class="team-item">
+            <img src="assets/images/team/sonali.jpeg" alt="" />
+            <h4>Sonali</h4>
+            <p>Web Developer</p>
+            <div class="content-part">
+              <h4 class="name"><a href="#">Sonali</a></h4>
+              <span class="designation">Web Developer</span>
+              <p class="team-dis">Ex- 3+ years</p>
+            </div>
+          </div>
+          <div class="team-item">
+            <img src="assets/images/team/manish.jpeg" alt="" />
+            <h4>Manish</h4>
+            <p>Social Media Specialist </p>
+            <div class="content-part">
+              <h4 class="name"><a href="#">Manish</a></h4>
+              <span class="designation">Social Media Specialist </span>
+              <p class="team-dis">Ex- 3+ years</p>
+            </div>
+          </div>
+          <div class="team-item">
+            <img src="assets/images/team/priya.jpeg" alt="" />
+            <h4>Priya</h4>
+            <p>Educational consultant </p>
+            <div class="content-part">
+              <h4 class="name"><a href="#">Priya</a></h4>
+              <span class="designation">Educational consultant</span>
+              <p class="team-dis">Ex- 5+ years</p>
+            </div>
+          </div>
+          <div class="team-item">
+            <img src="assets/images/team/daljit.jpeg" alt="" />
+            <h4>Daljit</h4>
+            <p>Social Media Specialist </p>
+            <div class="content-part">
+              <h4 class="name"><a href="#">Daljit</a></h4>
+              <span class="designation">Educational consultant</span>
+              <p class="team-dis">Ex- 5+ years</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Team Section End -->
+
+
+    <!-- About Section Start -->
+    <div id="rs-about" class="rs-about style2">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-5 pr-65 md-pr-15 md-mb-50">
+            <div class="about-intro">
+              <div class="sec-title wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+                <div class="sub-title primary">About Us</div>
+                <h2 class="titles">Welcome to Trainers Squad</h2>
+                <strong class="strongs">Our Mission is to Provide a World‑class Education.</strong>
+                <div class="desc big">
+                  <p>
+                    We are a team of dedicated professionals with a passion
+                    for technology and a commitment to excellence. Well,
+                    Trainers Squad was founded with the mission of providing
+                    the highest quality IT education and training to help
+                    individuals and organizations thrive in a rapidly evolving
+                    digital world.
+                  </p>
+                  <p>
+                    We are a team of dedicated professionals with a passion
+                    for technology and a commitment to excellence. Well,
+                    Trainers Squad was founded with the mission of providing
+                    the highest quality IT education and training to help
+                    individuals and organizations thrive in a rapidly evolving
+                    digital world.
+                  </p>
+                </div>
+              </div>
+              <div class="btn-part wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
+                <a class="readon2" href="#">Read More</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-7 lg-pl-0 md-ml-0 rs-about style2">
+            <div class="row grid-area">
+              <div class="col-md-6 sm-mb-30">
+                <div class="image-grid wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+                  <!-- Bootstrap square ratio -->
+                  <div class="ratio ratio-1x1">
+                    <video id="aboutVideo" autoplay muted loop playsinline controls
+                      class="w-100 h-100 object-fit-cover rounded">
+                      <source src="assets/images/about/about-us-2.mp4" type="video/mp4" />
+                      <source src="assets/images/about/about-us-2.mp4" type="video/ogg" />
+                      Your browser does not support the video tag.
+                    </video>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="image-grid wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+                  <!-- Bootstrap square ratio -->
+                  <div class="ratio ratio-1x1">
+                    <video id="aboutVideo" autoplay muted loop playsinline controls
+                      class="w-100 h-100 object-fit-cover rounded">
+                      <source src="assets/images/about/about-us-video.mp4" type="video/mp4" />
+                      <source src="assets/images/about/about-us-video.mp4" type="video/ogg" />
+                      Your browser does not support the video tag.
+                    </video>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row rs-counter couter-area mb-10 wow fadeInUp" data-wow-delay="100ms"
+              data-wow-duration="1000ms">
+              <!-- Counter 1 (Blue) -->
+              <div class="col-md-3 col-6">
+                <div class="counter-item one">
+                  <div class="icons">
+                    <i class="fas fa-users"></i>
+                  </div>
+                  <h2 class="number rs-count kplus">3</h2>
+                  <h4 class="title mb-2">Happy Students</h4>
+                  <div class="progress">
+                    <div class="progress-bar blue" role="progressbar" style="width: 0%" aria-valuenow="70"
+                      aria-valuemin="0" aria-valuemax="100">
+                      <span class="progress-text">0%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Counter 2 (Orange) -->
+              <div class="col-md-3 col-6">
+                <div class="counter-item two">
+                  <div class="icons">
+                    <i class="fas fa-chalkboard-teacher"></i>
+                  </div>
+                  <h2 class="number rs-count">50</h2>
+                  <h4 class="title mb-2">Expert Trainers</h4>
+                  <div class="progress">
+                    <div class="progress-bar orange" role="progressbar" style="width: 0%" aria-valuenow="85"
+                      aria-valuemin="0" aria-valuemax="100">
+                      <span class="progress-text">0%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Counter 3 (Blue again) -->
+              <div class="col-md-3 col-6">
+                <div class="counter-item three">
+                  <div class="icons">
+                    <i class="fas fa-star"></i>
+                  </div>
+
+                  <h2 class="number rs-count percent">95</h2>
+                  <h4 class="title mb-2">5-Star Reviews</h4>
+                  <div class="progress">
+                    <div class="progress-bar blue" role="progressbar" style="width: 0%" aria-valuenow="95"
+                      aria-valuemin="0" aria-valuemax="100">
+                      <span class="progress-text">0%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Counter 2 (Orange) -->
+              <div class="col-md-3 col-6">
+                <div class="counter-item two">
+                  <div class="icons">
+                    <i class="fas fa-book-open"></i>
+                  </div>
+                  <h2 class="number rs-count">100</h2>
+                  <h4 class="title mb-2">Courses Offered</h4>
+                  <div class="progress">
+                    <div class="progress-bar orange" role="progressbar" style="width: 0%" aria-valuenow="85"
+                      aria-valuemin="0" aria-valuemax="100">
+                      <span class="progress-text">0%</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- About Section End -->
+
+    <!-- Services Section Start -->
+    <div class="rs-services style1">
+      <div class="row no-gutter">
+        <div class="col-lg-3 col-md-6">
+          <div class="service-item overly1 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
+            <img src="assets/images/services/1.jpg" alt="" />
+            <div class="content-part">
+              <img src="assets/images/services/icons/1.png" alt="" />
+              <h4 class="title">
+                <a href="#">Upgrade to Workday Certification Training</a>
+              </h4>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <div class="service-item overly2 wow fadeInDown" data-wow-delay="400ms" data-wow-duration="2000ms">
+            <img src="assets/images/services/1.jpg" alt="" />
+            <div class="content-part">
+              <img src="assets/images/services/icons/2.png" alt="" />
+              <h4 class="title">
+                <a href="#">Upgrade to Workday Finance Training</a>
+              </h4>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <div class="service-item overly3 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
+            <img src="assets/images/services/1.jpg" alt="" />
+            <div class="content-part">
+              <img src="assets/images/services/icons/3.png" alt="" />
+              <h4 class="title"><a href="#">Upgrade to Workday HCM Functional Training</a></h4>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <div class="service-item overly4 wow fadeInDown" data-wow-delay="400ms" data-wow-duration="2000ms">
+            <img src="assets/images/services/1.jpg" alt="" />
+            <div class="content-part">
+              <img src="assets/images/services/icons/1.png" alt="" />
+              <h4 class="title">
+                <a href="#">Upgrade to Workday HCM Technical Training</a>
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Services Section End -->
+    <!-- Course Section start -->
+    <section class="course-wrap pt-50 workday-course">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="section-title style1 text-center">
+              <span>Trainers Squad</span>
+              <h2>Workday And Salesforce Training </h2>
+            </div>
+          </div>
+        </div>
+        <div class="row justify-content-md-center mt-2">
+          <div class="col-md-2">
+            <div class="course-card style1 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+              <div class="course-img">
+                <a href=""><img src="assets/images/courses/workday/course-1.png" alt="Image" class="img-fluid" /></a>
+              </div>
+              <div class="course-info">
+                <h3>
+                  <a href="">Workday Certification Training</a>
+                </h3>
+                <div class="course-rating">
+                  <ul>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="far fa-star"></i></li>
+                  </ul>
+                  <span> <i class="fas fa-stopwatch"></i>60+ Hourse</span>
+                </div>
+
+                <button class="course-start">
+                  Batch Starting:<b>30<sup>th</sup>August</b>
+                </button>
+                <p>
+                  <i class="fas fa-user-graduate"></i> 100% Job Assistance
+                </p>
+              </div>
+              <div class="view-btn">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#advisorModal">Apply Now </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-2">
+            <div class="course-card style1 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+              <div class="course-img">
+                <a href=""><img src="assets/images/courses/workday/course-2.png" alt="Image" class="img-fluid" /></a>
+              </div>
+              <div class="course-info">
+                <h3>
+                  <a href="">Workday Finance Training</a>
+                </h3>
+                <div class="course-rating">
+                  <ul>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="far fa-star"></i></li>
+                  </ul>
+                  <span> <i class="fas fa-stopwatch"></i>60+ Hourse</span>
+                </div>
+
+                <button class="course-start">
+                  Batch Starting:<b>30<sup>th</sup>August</b>
+                </button>
+                <p>
+                  <i class="fas fa-user-graduate"></i> 100% Job Assistance
+                </p>
+              </div>
+              <div class="view-btn">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#advisorModal">Apply Now </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-2">
+            <div class="course-card style1 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+              <div class="course-img">
+                <a href=""><img src="assets/images/courses/workday/course-3.png" alt="Image" class="img-fluid" /></a>
+              </div>
+              <div class="course-info">
+                <h3>
+                  <a href="">Workday HCM Functional Training</a>
+                </h3>
+                <div class="course-rating">
+                  <ul>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="far fa-star"></i></li>
+                  </ul>
+                  <span> <i class="fas fa-stopwatch"></i>60+ Hourse</span>
+                </div>
+
+                <button class="course-start">
+                  Batch Starting:<b>30<sup>th</sup>August</b>
+                </button>
+                <p>
+                  <i class="fas fa-user-graduate"></i> 100% Job Assistance
+                </p>
+              </div>
+              <div class="view-btn">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#advisorModal">Apply Now </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-2">
+            <div class="course-card style1 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+              <div class="course-img">
+                <a href="#!"><img src="assets/images/courses/workday/course-4.png" alt="Image" class="img-fluid" /></a>
+              </div>
+              <div class="course-info">
+                <h3>
+                  <a href="workday-techno-functional.php">Workday HCM Technical Training </a>
+                </h3>
+                <div class="course-rating">
+                  <ul>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="far fa-star"></i></li>
+                  </ul>
+                  <span> <i class="fas fa-stopwatch"></i>60+ Hourse</span>
+                </div>
+
+                <button class="course-start">
+                  Batch Starting:<b>30<sup>th</sup>August</b>
+                </button>
+                <p>
+                  <i class="fas fa-user-graduate"></i> 100% Job Assistance
+                </p>
+              </div>
+              <div class="view-btn">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#advisorModal">Apply Now </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-2">
+            <div class="course-card style1 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+              <div class="course-img">
+                <a href="workday-finance.php"><img src="assets/images/courses/workday/course-5.png" alt="Image" /></a>
+              </div>
+              <div class="course-info">
+                <h3>
+                  <a href="workday-finance.php">Workday HCM Techno Functional Training</a>
+                </h3>
+                <div class="course-rating">
+                  <ul>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="far fa-star"></i></li>
+                  </ul>
+                  <span> <i class="fas fa-stopwatch"></i>60+ Hourse</span>
+                </div>
+
+                <button class="course-start">
+                  Batch Starting:<b>30<sup>th</sup>August</b>
+                </button>
+                <p>
+                  <i class="fas fa-user-graduate"></i> 100% Job Assistance
+                </p>
+              </div>
+              <div class="view-btn">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#advisorModal">Apply Now </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-2">
+            <div class="course-card style1 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+              <div class="course-img">
+                <a href="workday-finance.php"><img src="assets/images/courses/saleforce/course-1.png" alt="Image" /></a>
+              </div>
+              <div class="course-info">
+                <h3>
+                  <a href="workday-finance.php">Salesforce Certification Program</a>
+                </h3>
+                <div class="course-rating">
+                  <ul>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="far fa-star"></i></li>
+                  </ul>
+                  <span> <i class="fas fa-stopwatch"></i>60+ Hourse</span>
+                </div>
+
+                <button class="course-start">
+                  Batch Starting:<b>30<sup>th</sup>August</b>
+                </button>
+                <p>
+                  <i class="fas fa-user-graduate"></i> 100% Job Assistance
+                </p>
+              </div>
+              <div class="view-btn">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#advisorModal">Apply Now </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-2">
+            <div class="course-card style1 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+              <div class="course-img">
+                <a href="workday-finance.php"><img src="assets/images/courses/saleforce/course-2.png" alt="Image" /></a>
+              </div>
+              <div class="course-info">
+                <h3>
+                  <a href="workday-finance.php">Salesforce Admin Certification Training</a>
+                </h3>
+                <div class="course-rating">
+                  <ul>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="far fa-star"></i></li>
+                  </ul>
+                  <span> <i class="fas fa-stopwatch"></i>60+ Hourse</span>
+                </div>
+
+                <button class="course-start">
+                  Batch Starting:<b>30<sup>th</sup>August</b>
+                </button>
+                <p>
+                  <i class="fas fa-user-graduate"></i> 100% Job Assistance
+                </p>
+              </div>
+              <div class="view-btn">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#advisorModal">Apply Now </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-2">
+            <div class="course-card style1 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+              <div class="course-img">
+                <a href="workday-finance.php"><img src="assets/images/courses/saleforce/course-3.png" alt="Image" /></a>
+              </div>
+              <div class="course-info">
+                <h3>
+                  <a href="workday-finance.php">Salesforce Developer Certification Training</a>
+                </h3>
+                <div class="course-rating">
+                  <ul>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="far fa-star"></i></li>
+                  </ul>
+                  <span> <i class="fas fa-stopwatch"></i>60+ Hourse</span>
+                </div>
+
+                <button class="course-start">
+                  Batch Starting:<b>30<sup>th</sup>August</b>
+                </button>
+                <p>
+                  <i class="fas fa-user-graduate"></i> 100% Job Assistance
+                </p>
+              </div>
+              <div class="view-btn">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#advisorModal">Apply Now </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-2">
+            <div class="course-card style1 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+              <div class="course-img">
+                <a href="workday-finance.php"><img src="assets/images/courses/saleforce/course-4.png" alt="Image" /></a>
+              </div>
+              <div class="course-info">
+                <h3>
+                  <a href="workday-finance.php">Salesforce LWC Certification Training</a>
+                </h3>
+                <div class="course-rating">
+                  <ul>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="far fa-star"></i></li>
+                  </ul>
+                  <span> <i class="fas fa-stopwatch"></i>60+ Hourse</span>
+                </div>
+
+                <button class="course-start">
+                  Batch Starting:<b>30<sup>th</sup>August</b>
+                </button>
+                <p>
+                  <i class="fas fa-user-graduate"></i> 100% Job Assistance
+                </p>
+              </div>
+              <div class="view-btn">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#advisorModal">Apply Now </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-2">
+            <div class="course-card style1 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+              <div class="course-img">
+                <a href="workday-finance.php"><img src="assets/images/courses/saleforce/course-5.png" alt="Image" /></a>
+              </div>
+              <div class="course-info">
+                <h3>
+                  <a href="workday-finance.php">Salesforce QA Certification Training</a>
+                </h3>
+                <div class="course-rating">
+                  <ul>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="far fa-star"></i></li>
+                  </ul>
+                  <span> <i class="fas fa-stopwatch"></i>60+ Hourse</span>
+                </div>
+
+                <button class="course-start">
+                  Batch Starting:<b>30<sup>th</sup>August</b>
+                </button>
+                <p>
+                  <i class="fas fa-user-graduate"></i> 100% Job Assistance
+                </p>
+              </div>
+              <div class="view-btn">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#advisorModal">Apply Now </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-2">
+            <div class="course-card style1 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+              <div class="course-img">
+                <a href="workday-finance.php"><img src="assets/images/courses/saleforce/course-6.png" alt="Image" /></a>
+              </div>
+              <div class="course-info">
+                <h3>
+                  <a href="workday-finance.php">Salesforce Salescloud Certification Training</a>
+                </h3>
+                <div class="course-rating">
+                  <ul>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="far fa-star"></i></li>
+                  </ul>
+                  <span> <i class="fas fa-stopwatch"></i>60+ Hourse</span>
+                </div>
+
+                <button class="course-start">
+                  Batch Starting:<b>30<sup>th</sup>August</b>
+                </button>
+                <p>
+                  <i class="fas fa-user-graduate"></i> 100% Job Assistance
+                </p>
+              </div>
+              <div class="view-btn">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#advisorModal">Apply Now </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-2">
+            <div class="course-card style1 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+              <div class="course-img">
+                <a href="workday-finance.php"><img src="assets/images/courses/saleforce/course-7.png" alt="Image" /></a>
+              </div>
+              <div class="course-info">
+                <h3>
+                  <a href="workday-finance.php">Salesforce Service Cloud Certification Training</a>
+                </h3>
+                <div class="course-rating">
+                  <ul>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="far fa-star"></i></li>
+                  </ul>
+                  <span> <i class="fas fa-stopwatch"></i>60+ Hourse</span>
+                </div>
+
+                <button class="course-start">
+                  Batch Starting:<b>30<sup>th</sup>August</b>
+                </button>
+                <p>
+                  <i class="fas fa-user-graduate"></i> 100% Job Assistance
+                </p>
+              </div>
+              <div class="view-btn">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#advisorModal">Apply Now </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-2">
+            <div class="course-card style1 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+              <div class="course-img">
+                <a href="workday-finance.php"><img src="assets/images/courses/saleforce/course-8.png" alt="Image" /></a>
+              </div>
+              <div class="course-info">
+                <h3>
+                  <a href="workday-finance.php">Salesforce CPQ Certification Training</a>
+                </h3>
+                <div class="course-rating">
+                  <ul>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="far fa-star"></i></li>
+                  </ul>
+                  <span> <i class="fas fa-stopwatch"></i>60+ Hourse</span>
+                </div>
+
+                <button class="course-start">
+                  Batch Starting:<b>30<sup>th</sup>August</b>
+                </button>
+                <p>
+                  <i class="fas fa-user-graduate"></i> 100% Job Assistance
+                </p>
+              </div>
+              <div class="view-btn">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#advisorModal">Apply Now </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-2">
+            <div class="course-card style1 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+              <div class="course-img">
+                <a href="workday-finance.php"><img src="assets/images/courses/saleforce/course-9.png" alt="Image" /></a>
+              </div>
+              <div class="course-info">
+                <h3>
+                  <a href="workday-finance.php">Salesforce Marketing Cloud Certification Training</a>
+                </h3>
+                <div class="course-rating">
+                  <ul>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="fas fa-star"></i></li>
+                    <li><i class="far fa-star"></i></li>
+                  </ul>
+                  <span> <i class="fas fa-stopwatch"></i>60+ Hourse</span>
+                </div>
+
+                <button class="course-start">
+                  Batch Starting:<b>30<sup>th</sup>August</b>
+                </button>
+                <p>
+                  <i class="fas fa-user-graduate"></i> 100% Job Assistance
+                </p>
+              </div>
+              <div class="view-btn">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#advisorModal">Apply Now </a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- Intro Courses -->
+    <section class="intro-section gray-bg">
+      <div class="container">
+        <div class="sec-title4 text-center mb-2">
+          <div class="sub-title text-white">Trainers Squad </div>
+          <h2 class="title mb-0 text-white">Transforming Skills into Success</h2>
+        </div>
+
+        <div class="row clearfix">
+          <!-- Content Column -->
+          <div class="col-md-12 md-mb-50">
+            <!-- Intro Info Tabs-->
+            <div class="intro-info-tabs">
+              <ul class="nav nav-tabs intro-tabs tabs-box wow fadeInUp" id="myTab" role="tablist" data-wow-delay="400ms"
+                data-wow-duration="2000ms">
+                <li class="nav-item tab-btns">
+                  <a class="nav-link tab-btn active" id="prod-overview-tab" data-toggle="tab" href="#prod-overview"
+                    role="tab" aria-controls="prod-overview" aria-selected="true">ServiceNow Training</a>
+                </li>
+                <li class="nav-item tab-btns">
+                  <a class="nav-link tab-btn" id="prod-curriculum-tab" data-toggle="tab" href="#prod-curriculum"
+                    role="tab" aria-controls="prod-curriculum" aria-selected="false">Salesforce Training</a>
+                </li>
+                <li class="nav-item tab-btns">
+                  <a class="nav-link tab-btn" id="prod-instructor-tab" data-toggle="tab" href="#prod-instructor"
+                    role="tab" aria-controls="prod-instructor" aria-selected="false">Workday Training</a>
+                </li>
+                <li class="nav-item tab-btns">
+                  <a class="nav-link tab-btn" id="prod-faq-tab" data-toggle="tab" href="#prod-faq" role="tab"
+                    aria-controls="prod-faq" aria-selected="false">AWS Training</a>
+                </li>
+                <li class="nav-item tab-btns">
+                  <a class="nav-link tab-btn" id="prod-reviews-tab" data-toggle="tab" href="#prod-reviews" role="tab"
+                    aria-controls="prod-reviews" aria-selected="false"> Cloud Computing Training </a>
+                </li>
+              </ul>
+              <div class="tab-content tabs-content wow fadeInUp" id="myTabContent" data-wow-delay="400ms"
+                data-wow-duration="2000ms">
+                <div class="tab-pane tab fade show active" id="prod-overview" role="tabpanel"
+                  aria-labelledby="prod-overview-tab">
+                  <div id="rs-popular-courses" class="rs-popular-courses main-home home12-style pt-20">
+                    <div class="container">
+                      <div class="row justify-content-md-center">
+                        <div class="col-md-3 mb-30">
+                          <div class="courses-item">
+                            <div class="courses-grid">
+                              <div class="img-part">
+                                <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                              </div>
+                              <div class="content-part">
+                                <h3 class="title">
+                                  <a href="#">ServiceNow Certification Training</a>
+                                </h3>
+
+                                <div class="course-price">
+                                  <span class="price">Contact</span>
+                                </div>
+
+                                <ul class="meta-part">
+                                  <li class="user">
+                                    <i class="fa fa-user"></i>
+                                    100% Job Assistance
+
+                                  </li>
+
+                                </ul>
+                                <div class="info-meta">
+                                  <ul>
+                                    <li class="ratings">
+                                      <i class="fa fa-star"></i>
+                                      <i class="fa fa-star"></i>
+                                      <i class="fa fa-star"></i>
+                                      <i class="fa fa-star"></i>
+                                      <i class="fa fa-star"></i>
+
+                                    </li>
+                                  </ul>
+                                </div>
+                                <div class="view-btn">
+                                  <a href="" target="_blank">Enroll Now
+                                  </a>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-md-3 mb-30">
+                          <div class="courses-item">
+                            <div class="courses-grid">
+                              <div class="img-part">
+                                <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                              </div>
+                              <div class="content-part">
+                                <h3 class="title">
+                                  <a href="#">ServiceNow Admin Certification Training</a>
+                                </h3>
+
+                                <div class="course-price">
+                                  <span class="price">Contact</span>
+                                </div>
+
+                                <ul class="meta-part">
+                                  <li class="user">
+                                    <i class="fa fa-user"></i>
+                                    100% Job Assistance
+
+                                  </li>
+
+                                </ul>
+                                <div class="info-meta">
+                                  <ul>
+                                    <li class="ratings">
+                                      <i class="fa fa-star"></i>
+                                      <i class="fa fa-star"></i>
+                                      <i class="fa fa-star"></i>
+                                      <i class="fa fa-star"></i>
+                                      <i class="fa fa-star"></i>
+
+                                    </li>
+                                  </ul>
+                                </div>
+                                <div class="view-btn">
+                                  <a href="" target="_blank">Enroll Now
+                                  </a>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-md-3 mb-30">
+                          <div class="courses-item">
+                            <div class="courses-grid">
+                              <div class="img-part">
+                                <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                              </div>
+                              <div class="content-part">
+                                <h3 class="title">
+                                  <a href="#">ServiceNow Developer Certification Training</a>
+                                </h3>
+
+                                <div class="course-price">
+                                  <span class="price">Contact</span>
+                                </div>
+
+                                <ul class="meta-part">
+                                  <li class="user">
+                                    <i class="fa fa-user"></i>
+                                    100% Job Assistance
+
+                                  </li>
+
+                                </ul>
+                                <div class="info-meta">
+                                  <ul>
+                                    <li class="ratings">
+                                      <i class="fa fa-star"></i>
+                                      <i class="fa fa-star"></i>
+                                      <i class="fa fa-star"></i>
+                                      <i class="fa fa-star"></i>
+                                      <i class="fa fa-star"></i>
+
+                                    </li>
+                                  </ul>
+                                </div>
+                                <div class="view-btn">
+                                  <a href="" target="_blank">Enroll Now
+                                  </a>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-md-3 mb-30">
+                          <div class="courses-item">
+                            <div class="courses-grid">
+                              <div class="img-part">
+                                <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                              </div>
+                              <div class="content-part">
+                                <h3 class="title">
+                                  <a href="#">ServiceNow Implementation Specialist Certification Training</a>
+                                </h3>
+
+                                <div class="course-price">
+                                  <span class="price">Contact</span>
+                                </div>
+
+                                <ul class="meta-part">
+                                  <li class="user">
+                                    <i class="fa fa-user"></i>
+                                    100% Job Assistance
+
+                                  </li>
+
+                                </ul>
+                                <div class="info-meta">
+                                  <ul>
+                                    <li class="ratings">
+                                      <i class="fa fa-star"></i>
+                                      <i class="fa fa-star"></i>
+                                      <i class="fa fa-star"></i>
+                                      <i class="fa fa-star"></i>
+                                      <i class="fa fa-star"></i>
+
+                                    </li>
+                                  </ul>
+                                </div>
+                                <div class="view-btn">
+                                  <a href="" target="_blank">Enroll Now
+                                  </a>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane fade" id="prod-curriculum" role="tabpanel" aria-labelledby="prod-curriculum-tab">
+                  <div class="tab-pane tab fade show active" id="prod-overview" role="tabpanel"
+                    aria-labelledby="prod-overview-tab">
+                    <div id="rs-popular-courses" class="rs-popular-courses main-home home12-style pt-20">
+                      <div class="container">
+                        <div class="row justify-content-md-center">
+                          <div class="col-md-3 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">Salesforce Certification Program</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-3 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">Salesforce Admin Certification Training</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-3   mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">Salesforce Developer Certification Training</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-3 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">Salesforce LWC Certification Training</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-3 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">Salesforce QA Certification Training</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-3 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">Salesforce Salescloud Certification Training</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-3 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">Salesforce Service Cloud Certification Training</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-3 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">Salesforce CPQ Certification Training</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-3 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">Salesforce Marketing Cloud Certification Training</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane fade" id="prod-instructor" role="tabpanel" aria-labelledby="prod-instructor-tab">
+                  <div class="tab-pane tab fade show active" id="prod-overview" role="tabpanel"
+                    aria-labelledby="prod-overview-tab">
+                    <div id="rs-popular-courses" class="rs-popular-courses main-home home12-style pt-20">
+                      <div class="container">
+                        <div class="row justify-content-md-center">
+                          <div class="col-md-3 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">Workday Certification Training</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-3 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">Workday Finance Training</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-3 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">Workday HCM Functional Training</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-3 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">Workday HCM Technical Training</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-3 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">Workday HCM Techno Functional Training</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane fade" id="prod-faq" role="tabpanel" aria-labelledby="prod-faq-tab">
+                  <div class="tab-pane tab fade show active" id="prod-overview" role="tabpanel"
+                    aria-labelledby="prod-overview-tab">
+                    <div id="rs-popular-courses" class="rs-popular-courses main-home home12-style pt-20">
+                      <div class="container">
+                        <div class="row justify-content-md-center">
+                          <div class="col-md-3 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">AWS Certification Program</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-3 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">AWS Certified Solutions Architect – Associate</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-3 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">AWS Certified Solutions Architect – Professional</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-4 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">AWS Certification Training</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-4 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">AWS Certification Training</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane fade" id="prod-reviews" role="tabpanel" aria-labelledby="prod-reviews-tab">
+                  <div class="tab-pane tab fade show active" id="prod-overview" role="tabpanel"
+                    aria-labelledby="prod-overview-tab">
+                    <div id="rs-popular-courses" class="rs-popular-courses main-home home12-style pt-20">
+                      <div class="container">
+                        <div class="row justify-content-md-center">
+                          <div class="col-md-4 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">AWS Certification Training</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-4 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">AWS Certification Training</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-4 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">AWS Certification Training</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-4 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">AWS Certification Training</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-4 mb-30">
+                            <div class="courses-item">
+                              <div class="courses-grid">
+                                <div class="img-part">
+                                  <a href="#"><img src="assets/images/courses/home12/1.jpg" alt="" /></a>
+                                </div>
+                                <div class="content-part">
+                                  <h3 class="title">
+                                    <a href="#">AWS Certification Training</a>
+                                  </h3>
+
+                                  <div class="course-price">
+                                    <span class="price">Contact</span>
+                                  </div>
+
+                                  <ul class="meta-part">
+                                    <li class="user">
+                                      <i class="fa fa-user"></i>
+                                      100% Job Assistance
+
+                                    </li>
+
+                                  </ul>
+                                  <div class="info-meta">
+                                    <ul>
+                                      <li class="ratings">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <div class="view-btn">
+                                    <a href="" target="_blank">Enroll Now
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End intro Courses -->
+    <!--  -->
+
+    <!-- certification section  -->
+    <div class="rs-about style4 pb-120 md-pt-80 md-pb-80">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="img-part wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">
+              <img src="assets/images/about/certification.png" alt="About Image" class="img-fluid">
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="about-content pl-20">
+              <div class="sec-title wow fadeInRight" data-wow-delay="300ms" data-wow-duration="2000ms">
+                <h2 class="title mb-2">Upcoming Free Live Webinars</h2>
+                <div class="sub-title">Why Trainers Squad ?</div>
+                <p class="desc">Here, at Trainers Squad, we typically offer structured courses that cover a wide
+                  range of topics related to IT and technology. These courses are designed to provide a comprehensive
+                  understanding of the subject matter and are typically taught by experienced instructors with a deep
+                  understanding of the field.</p>
+              </div>
+
+              <div class="book-part  wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
+                <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30"
+                  data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="3000" data-smart-speed="500"
+                  data-dots="false" data-nav="true" data-nav-speed="false" data-center-mode="false"
+                  data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false"
+                  data-ipad-device="3" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="3"
+                  data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="3"
+                  data-md-device-nav="true" data-md-device-dots="false">
+                  <div class="single-book">
+                    <div class="webinar-card">
+                      <h3 class="webinar-title">Salesforce Webinar</h3>
+                      <p class="webinar-sub">Free <span>Live</span> Webinar</p>
+                      <div class="date-btn">10 August, 8 PM</div>
+
+                      <button class="join-btn"><a href="tel:8826243437">Join Now</a></button>
+                    </div>
+                  </div>
+                  <div class="single-book">
+                    <div class="webinar-card">
+                      <h3 class="webinar-title">Generative AI</h3>
+                      <p class="webinar-sub">Free <span>Live</span> Webinar</p>
+                      <div class="date-btn">10 August, 8 PM</div>
+
+                      <button class="join-btn"><a href="tel:8826243437">Join Now</a></button>
+                    </div>
+                  </div>
+                  <div class="single-book">
+                    <div class="webinar-card">
+                      <h3 class="webinar-title">WORKDAY HCM</h3>
+                      <p class="webinar-sub">Free <span>Live</span> Webinar</p>
+                      <div class="date-btn">10 August, 8 PM</div>
+
+                      <button class="join-btn"><a href="tel:8826243437">Join Now</a></button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <!-- pdf section -->
+    <div class="rs-cta">
+      <div class="cta-img text-center ">
+        <img src="assets/images/cta/cta-bg2.jpg" alt="">
+      </div>
+      <div class="cta-content">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-3 wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">
+              <img src="assets/images/about/pdf.png" alt="" class="img-fluid">
+            </div>
+            <div class="col-md-9">
+              <div class="sec-title mb-0 wow fadeInUp" data-wow-delay="300ms" data-wow-duration="2000ms">
+                <h2 class="title white-color extra-bold mb-16 sm-mb-5">Claim Your Free 15-Min Resume Consultation Now 🚀
+                </h2>
+                <h4 class="sub-title capitalize white-color mb-0">Trusted By 10,000 + Organization Boost your chances of
+                  landing top tech roles with Scaler AI</h4>
+                <p class="text-white">Get expert tips to optimize your resume, highlight your strengths, and stand out
+                  to recruiters. In just 15 minutes, we’ll help you craft a resume that boosts your career
+                  opportunities.</p>
+                <ul class="text-white text-start d-inline-block mt-3">
+                  <li>✔ Personalized feedback from industry experts</li>
+                  <li>✔ AI-powered resume analysis</li>
+                  <li>✔ Learn how to showcase your key achievements</li>
+                  <li>✔ Tips to align your resume with job descriptions</li>
+                  <li>✔ Free resume template & formatting advice</li>
+                </ul>
+              </div>
+
+              <div class="btn-part wow fadeInUp" data-wow-delay="500ms" data-wow-duration="2000ms">
+                <a class="readon2  mr-20" href="#"> <i class="fas fa-comments"></i> Start Consultation</a>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Choose Section Start -->
+    <div class="why-choose-us style3">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-lg-4 js-tilt wow fadeInLeft" data-wow-delay="400ms" data-wow-duration="2000ms">
+            <section class="support-section">
+              <h2 class="title new-title margin-0 pb-2">Our 3 Steps Recruitment Process</h2>
+              <div class="row g-4">
+                <div class="col-md-6 col-6">
+                  <div class="support-card">
+                    <i class="fab fa-github"></i>
+                    <h5>Github Profile</h5>
+                  </div>
+                </div>
+                <div class="col-md-6 col-6">
+                  <div class="support-card">
+                    <i class="fab fa-linkedin"></i>
+                    <h5>LinkedIn Profile</h5>
+                  </div>
+                </div>
+                <div class="col-md-6 col-6">
+                  <div class="support-card">
+                    <i class="fas fa-file-alt"></i>
+                    <h5>Resume Writing</h5>
+                  </div>
+                </div>
+                <div class="col-md-6 col-6 ">
+                  <div class="support-card">
+                    <i class="fas fa-code"></i>
+                    <h5>Soft Skills</h5>
+                  </div>
+                </div>
+                <div class="col-md-6 col-6">
+                  <div class="support-card">
+                    <i class="fas fa-comments"></i>
+                    <h5>Interview Preparation</h5>
+                  </div>
+                </div>
+                <div class="col-md-6 col-6 ">
+                  <div class="support-card">
+                    <i class="fas fa-folder-open"></i>
+                    <h5>Live Projects</h5>
+                  </div>
+                </div>
+              </div>
+
+            </section>
+          </div>
+          <div class="col-lg-4 js-tilt wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
+            <div class="img-part">
+              <img src="assets/images/choose/home12/1.png" alt="" />
+            </div>
+          </div>
+          <div class="col-lg-4 wow fadeInRight" data-wow-delay="400ms" data-wow-duration="2000ms">
+            <div class="sec-title3 mb-30">
+              <h2 class="title new-title margin-0">Our 3 Steps Recruitment Process</h2>
+            </div>
+            <div class="services-part mb-20">
+              <div class="services-icon">
+                <img src="assets/images/choose/home12/icon/1.png" alt="" />
+              </div>
+              <div class="services-text">
+                <h2 class="title">Profile Building</h2>
+                <ul class="process-list">
+                  <li class="users">
+                    <i class="fas fa-arrow-circle-right"></i>
+                    Craft a Strong Resume
+                  </li>
+                  <li class="users">
+                    <i class="fas fa-arrow-circle-right"></i>
+                    Optimize LinkedIn Profile
+                  </li>
+              </div>
+            </div>
+            <div class="services-part mb-20">
+              <div class="services-icon">
+                <img src="assets/images/choose/home12/icon/2.png" alt="" />
+              </div>
+              <div class="services-text">
+                <h2 class="title">Mock Interviews</h2>
+                <ul class="process-list">
+                  <li class="users">
+                    <i class="fas fa-arrow-circle-right"></i>
+                    Craft a Strong Resume
+                  </li>
+                  <li class="users">
+                    <i class="fas fa-arrow-circle-right"></i>
+                    Optimize LinkedIn Profile
+                  </li>
+              </div>
+            </div>
+            <div class="services-part">
+              <div class="services-icon">
+                <img src="assets/images/choose/home12/icon/3.png" alt="" />
+              </div>
+              <div class="services-text">
+                <h2 class="title">Right Opportunity</h2>
+                <ul class="process-list">
+                  <li class="users">
+                    <i class="fas fa-arrow-circle-right"></i>
+                    Craft a Strong Resume
+                  </li>
+                  <li class="users">
+                    <i class="fas fa-arrow-circle-right"></i>
+                    Optimize LinkedIn Profile
+                  </li>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Choose Section End -->
+    <!-- certificate section -->
+    <div class="rs-gallery">
+      <div class="container">
+        <div class="sec-title4 text-center mb-5">
+          <div class="sub-title ">Trainers Squad </div>
+          <h2 class="title mb-0 ">Government Recognition</h2>
+        </div>
+        <div class="row">
+          <div class="col-lg-3 mb-30 col-md-3  wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
+            <div class="gallery-item">
+              <div class="gallery-img">
+                <div class="title">
+                  ISO 9001:2015
+                </div>
+                <a class="image-popup" href="assets/images/certificate/certificate-1.jpg"><img src="assets/images/certificate/certificate-1.jpg" alt=""></a>
+              </div>
+
+            </div>
+          </div>
+          <div class="col-lg-3 mb-30 col-md-3  wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
+            <div class="gallery-item">
+              <div class="gallery-img">
+                <div class="title">
+                  ISO 9001:2015
+                </div>
+                <a class="image-popup" href="assets/images/certificate/certificate-1.jpg"><img src="assets/images/certificate/certificate-1.jpg" alt=""></a>
+              </div>
+
+            </div>
+          </div>
+          <div class="col-lg-3 mb-30 col-md-3  wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
+            <div class="gallery-item">
+              <div class="gallery-img">
+                <div class="title">
+                  ISO 9001:2015
+                </div>
+                <a class="image-popup" href="assets/images/certificate/certificate-1.jpg"><img src="assets/images/certificate/certificate-1.jpg" alt=""></a>
+              </div>
+
+            </div>
+          </div>
+          <div class="col-lg-3 mb-30 col-md-3  wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
+            <div class="gallery-item">
+              <div class="gallery-img">
+                <div class="title">
+                  ISO 9001:2015
+                </div>
+                <a class="image-popup" href="assets/images/certificate/certificate-1.jpg"><img src="assets/images/certificate/certificate-1.jpg" alt=""></a>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Tvideo Section Start -->
+    <div class="rs-testimonial home12-style">
+      <div class="container wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
+        <div class="sec-title4 text-center mb-2">
+          <div class="sub-title text-white">Trainers Squad </div>
+          <h2 class="title mb-0 text-white">Transforming Skills into Success</h2>
+        </div>
+
+        <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true"
+          data-hoverpause="true" data-autoplay-timeout="1000" data-smart-speed="400" data-dots="false" data-nav="true"
+          data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false"
+          data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false"
+          data-ipad-device-dots="false" data-ipad-device2="1" data-ipad-device-nav2="false"
+          data-ipad-device-dots2="false" data-md-device="3" data-md-device-nav="false" data-md-device-dots="false">
+
+          <!-- Testimonial 1 -->
+          <div class="testi-item">
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dexrKWFc_nI?si=u1bam1Ws4Bz5VYYF"
+                allowfullscreen>
+              </iframe>
+            </div>
+          </div>
+
+          <!-- Testimonial 2 -->
+          <div class="testi-item">
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VjoLrH4TvLo?si=PB4g7bTisU6kCi7V"
+                allowfullscreen>
+              </iframe>
+            </div>
+          </div>
+
+          <!-- Testimonial 3 -->
+          <div class="testi-item">
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/fUcKvA_GIuA?si=dqS3MWi4BRcEDIPM"
+                allowfullscreen>
+              </iframe>
+            </div>
+          </div>
+          <!-- Testimonial 4 -->
+          <div class="testi-item">
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Ug25DZo30ns?si=ILdK88KoQjHh2C3y"
+                allowfullscreen>
+              </iframe>
+            </div>
+          </div>
+          <!-- Testimonial 5 -->
+          <div class="testi-item">
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/QXdoxLEH_ug?si=l-5xtpM0UWfOZGRh"
+                allowfullscreen>
+              </iframe>
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+    </div>
+    <!-- video Section End -->
+    <!-- Download Section Start -->
+    <div class="rs-download-app">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-md-4 wow fadeInLeft" data-wow-delay="400ms" data-wow-duration="2000ms">
+            <div class="sec-title3">
+              <div class="sub-title green-color">Trainers Squad</div>
+              <h2 class="title new-title mb-2">
+                Trainers Squad SERVICES
+              </h2>
+            </div>
+            <div class="service-card-section">
+              <div class="row justify-content-md-center">
+                <div class="col-md-4 col-6">
+                  <div class="service-cards">
+                    <img src="assets/images/service-icon/1.png" alt="">
+                    <h4>Classroom Training</h4>
+                  </div>
+                </div>
+                <div class="col-md-4 col-6">
+                  <div class="service-cards">
+                    <img src="assets/images/service-icon/2.png" alt="">
+                    <h4>Instructor Led Online</h4>
+                  </div>
+                </div>
+                <div class="col-md-4 col-6">
+                  <div class="service-cards">
+                    <img src="assets/images/service-icon/3.svg" alt="">
+                    <h4>Fly-Me-A-Trainer</h4>
+                  </div>
+                </div>
+                <div class="col-md-4 col-6">
+                  <div class="service-cards">
+                    <img src="assets/images/service-icon/4.png" alt="">
+                    <h4>Corporate Training</h4>
+                  </div>
+                </div>
+                <div class="col-md-4 col-6">
+                  <div class="service-cards">
+                    <img src="assets/images/service-icon/5.png" alt="">
+                    <h4>1-on-1 Training</h4>
+                  </div>
+                </div>
+                <div class="col-md-4 col-6">
+                  <div class="service-cards">
+                    <img src="assets/images/service-icon/6.png" alt="">
+                    <h4>Selfpaced Training</h4>
+                  </div>
+                </div>
+                <div class="col-md-4 col-6">
+                  <div class="service-cards">
+                    <img src="assets/images/service-icon/7.png" alt="">
+                    <h4>Tailor-made Training</h4>
+                  </div>
+                </div>
+                <div class="col-md-4 col-6">
+                  <div class="service-cards">
+                    <img src="assets/images/service-icon/8.png" alt="">
+                    <h4>Campus Training</h4>
+                  </div>
+                </div>
+              </div>
+
+
+            </div>
+          </div>
+          <div class="col-md-4 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
+            <div class="img-part">
+              <img src="assets/images/download/m-app.png" alt="" />
+            </div>
+          </div>
+          <div class="col-md-4 wow fadeInRight" data-wow-delay="400ms" data-wow-duration="2000ms">
+            <div class="sec-title3">
+              <div class="sub-title green-color">Trainers Squad</div>
+              <h2 class="title new-title mb-2">
+                Learn anything - Any Time - Any Where ; Mobile/Desktop
+              </h2>
+              <div class="new-desc">
+                <p>Empower your career with flexible learning options. Access expert-led courses and real-time guidance
+                  anytime, anywhere — designed to help you grow at your own pace.</p>
+              </div>
+              <h4>Our learners transformed their career</h4>
+              <ul class="career-list row justify-content-center">
+                <li class="col-md-6 col-6">
+                  <div class="icon-box red-grad">
+                    <i class="fas fa-chart-line"></i>
+                  </div>
+                  <div>
+                    <h5>40 Laks</h5>
+                    <p>Highest Salary Offered</p>
+                  </div>
+                </li>
+
+                <li class="col-md-6 col-6">
+                  <div class="icon-box purple-grad">
+                    <i class="fas fa-hand-holding-usd"></i>
+                  </div>
+                  <div>
+                    <h5>50%</h5>
+                    <p>Average Salary Hike</p>
+                  </div>
+                </li>
+
+                <li class="col-md-6 col-6">
+                  <div class="icon-box orange-grad">
+                    <i class="fas fa-building"></i>
+                  </div>
+                  <div>
+                    <h5>30K+</h5>
+                    <p>Placed in MNC’s</p>
+                  </div>
+                </li>
+
+                <li class="col-md-6 col-6">
+                  <div class="icon-box green-grad">
+                    <i class="fas fa-award"></i>
+                  </div>
+                  <div>
+                    <h5>15+</h5>
+                    <p>Years in Training</p>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="mobile-img">
+              <div class="apps-image pr-20 sm-pr-5">
+                <img src="assets/images/download/play.png" alt="" />
+              </div>
+              <div class="apps-image">
+                <img src="assets/images/download/apple.png" alt="" />
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Download Section End -->
+
+    <!-- Partner Start -->
+    <div class="rs-partner">
+
+      <div class="container  ">
+        <div class="section-title style1 text-center">
+          <span>Trainers Squad</span>
+          <h2>Associated with 1200+ Hiring partners</h2>
+        </div>
+
+        <div class="row">
+          <div class="col-md-12">
+            <section class="partner-logos-section">
+
+              <!-- Row 1 -->
+              <div class="marquee marquee-left">
+                <div class="partner-logo-track" id="partnerTrack1">
+
+                  <img src="assets/images/client/logo-1.webp" class="partner-logo">
+                  <img src="assets/images/client/logo-2.svg" class="partner-logo">
+                  <img src="assets/images/client/logo-3.webp" class="partner-logo">
+                  <img src="assets/images/client/logo-4.png" class="partner-logo">
+                  <img src="assets/images/client/logo-5.png" class="partner-logo">
+                  <img src="assets/images/client/logo-6.png" class="partner-logo">
+                  <img src="assets/images/client/logo-7.png" class="partner-logo">
+
+
+                </div>
+              </div>
+
+              <!-- Row 2 -->
+              <div class="marquee marquee-right">
+                <div class="partner-logo-track" id="partnerTrack2">
+
+                  <img src="assets/images/client/logo-8.svg" class="partner-logo">
+                  <img src="assets/images/client/logo-9.png" class="partner-logo">
+                  <img src="assets/images/client/logo-10.jpg" class="partner-logo">
+                  <img src="assets/images/client/logo-11.png" class="partner-logo">
+                  <img src="assets/images/client/logo-12.png" class="partner-logo">
+                  <img src="assets/images/client/logo-13.png" class="partner-logo">
+                  <img src="assets/images/client/logo-14.webp" class="partner-logo">
+                </div>
+              </div>
+
+            </section>
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <!-- Partner End -->
+
+    <!-- Tvideo Section Start -->
+    <div class="rs-testimonial home12-style ">
+      <div class="container-fluid wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
+        <div class="sec-title4 text-center mb-2">
+          <div class="sub-title text-white">Trainers Squad </div>
+          <h2 class="title mb-0 text-white">Transforming Skills into Success</h2>
+        </div>
+
+        <div class="row">
+          <div class="col-md-6">
+            <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="40" data-autoplay="true"
+              data-hoverpause="true" data-autoplay-timeout="1000" data-smart-speed="400" data-dots="false"
+              data-nav="true" data-nav-speed="false" data-center-mode="false" data-mobile-device="1"
+              data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2"
+              data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="1"
+              data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="3" data-md-device-nav="false"
+              data-md-device-dots="false">
+
+              <!-- Testimonial 1 -->
+              <div class="testi-item">
+                <div class="video-rectangle">
+                  <video autoplay muted loop playsinline controls>
+                    <source src="assets/images/review/video-1.mp4" type="video/mp4">
+                  </video>
+                </div>
+
+              </div>
+
+              <!-- Testimonial 2 -->
+              <div class="testi-item">
+                <div class="video-rectangle">
+                  <video autoplay muted loop playsinline controls>
+                    <source src="assets/images/review/video-2.mp4" type="video/mp4">
+                  </video>
+                </div>
+
+              </div>
+
+              <!-- Testimonial 3 -->
+              <div class="testi-item">
+                <div class="video-rectangle">
+                  <video autoplay muted loop playsinline controls>
+                    <source src="assets/images/review/video-3.mp4" type="video/mp4">
+                  </video>
+                </div>
+
+              </div>
+
+
+
+            </div>
+          </div>
+          <div class="col-md-6">
+            <img src="assets/images/about/placement-image.png" alt="" class="img-fluid">
+          </div>
+
+        </div>
+      </div>
+    </div>
+    <!-- video Section End -->
+
+    <!-- Testimonial Section Start -->
+    <div class="rs-testimonial style5">
+      <div class="container wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
+        <div class="sec-title mb-15 text-center">
+          <h2 class="title extra-bold mb-15 sm-mb-10">What Our Client Says</h2>
+          <div class="sub-title capitalize">Our Clients Review</div>
+        </div>
+        <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true"
+          data-hoverpause="true" data-autoplay-timeout="1000" data-smart-speed="400" data-dots="true" data-nav="false"
+          data-nav-speed="false" data-md-device="3" data-md-device-nav="false" data-md-device-dots="true"
+          data-center-mode="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="true"
+          data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="true" data-mobile-device="1"
+          data-mobile-device-nav="false" data-mobile-device-dots="false">
+          <div class="testi-item">
+            <div class="author-desc">
+              <div class="desc"><img src="assets/images/review/review-1.png" alt="" class="img-fluid"></div>
+            </div>
+          </div>
+          <div class="testi-item">
+            <div class="author-desc">
+              <div class="desc"><img src="assets/images/review/review-2.png" alt="" class="img-fluid"></div>
+            </div>
+          </div>
+          <div class="testi-item">
+            <div class="author-desc">
+              <div class="desc"><img src="assets/images/review/review-3.png" alt="" class="img-fluid"></div>
+            </div>
+          </div>
+          <div class="testi-item">
+            <div class="author-desc">
+              <div class="desc"><img src="assets/images/review/review-4.png" alt="" class="img-fluid"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Testimonial Section End -->
+    <!-- Blog Section Start -->
+    <div id="rs-blog" class="rs-blog main-home modify1">
+      <div class="container">
+        <div class="sec-title4 text-center mb-50">
+          <div class="sub-title">Trainers Squad</div>
+          <h2 class="title">Latest News</h2>
+        </div>
+        <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true"
+          data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false"
+          data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false"
+          data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false"
+          data-ipad-device-dots="false" data-ipad-device2="1" data-ipad-device-nav2="false"
+          data-ipad-device-dots2="false" data-md-device="3" data-md-device-nav="false" data-md-device-dots="false">
+          <div class="blog-item wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
+            <div class="image-part">
+              <img src="assets/images/blog/blog-1.png" alt="" />
+            </div>
+            <div class="blog-content">
+              <div class="blog-meta">
+                <span class="date"><i class="fa fa-calendar-check-o"></i> September 24,
+                  2020</span>
+
+              </div>
+              <h3 class="title">
+                <a href="#!">How To Become A Salesforce Tester?</a>
+              </h3>
+              <div class="btn-part ">
+                <a class="readon2" href="#">Read More</a>
+              </div>
+            </div>
+          </div>
+          <div class="blog-item wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
+            <div class="image-part">
+              <img src="assets/images/blog/blog-2.png" alt="" />
+            </div>
+            <div class="blog-content">
+              <div class="blog-meta">
+                <span class="date"><i class="fa fa-calendar-check-o"></i> September 24,
+                  2020</span>
+
+              </div>
+              <h3 class="title">
+                <a href="">Top 10 Must Use AI Tools For Data Analysis.</a>
+              </h3>
+              <div class="btn-part ">
+                <a class="readon2" href="#">Read More</a>
+              </div>
+            </div>
+          </div>
+          <div class="blog-item wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
+            <div class="image-part">
+              <img src="assets/images/blog/blog-3.png" alt="" />
+            </div>
+            <div class="blog-content">
+              <div class="blog-meta">
+                <span class="date"><i class="fa fa-calendar-check-o"></i> September 24,
+                  2020</span>
+
+              </div>
+              <h3 class="title">
+                <a href="#!">How to Install Salesforce for Windows?</a>
+              </h3>
+              <div class="btn-part ">
+                <a class="readon2" href="#">Read More</a>
+              </div>
+            </div>
+          </div>
+          <div class="blog-item wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
+            <div class="image-part">
+              <img src="assets/images/blog/blog-4.png" alt="" />
+            </div>
+            <div class="blog-content">
+              <div class="blog-meta">
+                <span class="date"><i class="fa fa-calendar-check-o"></i> September 24,
+                  2020</span>
+
+              </div>
+              <h3 class="title">
+                <a href="">Key Components of Power Platform</a>
+              </h3>
+              <div class="btn-part ">
+                <a class="readon2" href="#">Read More</a>
+              </div>
+            </div>
+          </div>
+          <div class="blog-item wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
+            <div class="image-part">
+              <img src="assets/images/blog/blog-5.png" alt="" />
+            </div>
+            <div class="blog-content">
+              <div class="blog-meta">
+                <span class="date"><i class="fa fa-calendar-check-o"></i> September 24,
+                  2020</span>
+
+              </div>
+              <h3 class="title">
+                <a href="">Top Data Engineer Interview Questions And ..</a>
+              </h3>
+              <div class="btn-part ">
+                <a class="readon2" href="#">Read More</a>
+              </div>
+            </div>
+          </div>
+          <div class="blog-item wow fadeInUp" data-wow-delay="400ms" data-wow-duration="2000ms">
+            <div class="image-part">
+              <img src="assets/images/blog/blog-6.png" alt="" />
+            </div>
+            <div class="blog-content">
+              <div class="blog-meta">
+                <span class="date"><i class="fa fa-calendar-check-o"></i> September 24,
+                  2020</span>
+
+              </div>
+              <h3 class="title">
+                <a href="">AWS Interview Questions and Answers: What ..
+                </a>
+              </h3>
+              <div class="btn-part">
+                <a class="readon2" href="#">Read More</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Blog Section End -->
+  </div>
+  <!-- Main content End -->
+
+  <!-- Footer Start -->
+   <?php include("include/footer.php") ?>
+  <!-- start scrollUp  -->
+  <div id="scrollUp" class="green-color">
+    <i class="fa fa-angle-up"></i>
+  </div>
+  <!-- End scrollUp  -->
+  <script>
+    // WhatsApp redirect form
+    $('#downloadForm').on('submit', function(e) {
+      e.preventDefault();
+      var whatsappNo = $('#whatsappNo').val();
+      var course = $('#courseSelect').val();
+
+      var message = 'Hi, I am interested in the course:\n' +
+        'Course: ' + course + '\n' +
+        'My WhatsApp No: ' + whatsappNo;
+      var encodedMessage = encodeURIComponent(message);
+
+      $('#downloadForm').addClass('d-none');
+      $('#downloadThankYou').removeClass('d-none');
+
+      setTimeout(function() {
+        window.open('https://wa.me/918826243437?text=' + encodedMessage, '_blank');
+      }, 500);
+    });
+  </script>
+
+
+  <!-- modernizr js -->
+  <script src="assets/js/modernizr-2.8.3.min.js"></script>
+  <!-- jquery latest version -->
+  <script src="assets/js/jquery.min.js"></script>
+  <!-- Bootstrap v4.4.1 js -->
+  <script src="assets/js/bootstrap.min.js"></script>
+  <!-- Menu js -->
+  <script src="assets/js/rsmenu-main.js"></script>
+  <!-- op nav js -->
+  <script src="assets/js/jquery.nav.js"></script>
+  <!-- owl.carousel js -->
+  <script src="assets/js/owl.carousel.min.js"></script>
+  <!-- Slick js -->
+  <script src="assets/js/slick.min.js"></script>
+  <!-- isotope.pkgd.min js -->
+  <script src="assets/js/isotope.pkgd.min.js"></script>
+  <!-- imagesloaded.pkgd.min js -->
+  <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+  <!-- wow js -->
+  <script src="assets/js/wow.min.js"></script>
+  <!-- Skill bar js -->
+  <script src="assets/js/skill.bars.jquery.js"></script>
+  <script src="assets/js/jquery.counterup.min.js"></script>
+  <!-- counter top js -->
+  <script src="assets/js/waypoints.min.js"></script>
+  <!-- video js -->
+  <script src="assets/js/jquery.mb.YTPlayer.min.js"></script>
+  <!-- magnific popup js -->
+  <script src="assets/js/jquery.magnific-popup.min.js"></script>
+  <!-- tilt js -->
+  <script src="assets/js/tilt.jquery.min.js"></script>
+  <!-- plugins js -->
+  <script src="assets/js/plugins.js"></script>
+  <!-- contact form js -->
+  <script src="assets/js/contact.form.js"></script>
+  <!-- main js -->
+  <script src="assets/js/main.js"></script>
+  <script>
+    const video = document.getElementById("aboutVideo");
+
+    // When user clicks the video, unmute it
+    video.addEventListener("click", function() {
+      if (video.muted) {
+        video.muted = false;
+      } else {
+        video.muted = true; // Optional: toggle sound on/off
+      }
+    });
+  </script>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const bars = document.querySelectorAll(".progress-bar");
+
+      const observer = new IntersectionObserver(
+        (entries, obs) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              const bar = entry.target;
+              const target = parseInt(bar.getAttribute("aria-valuenow"));
+              const text = bar.querySelector(".progress-text");
+              let value = 0;
+
+              // Animate width and number count
+              const animate = setInterval(() => {
+                if (value >= target) {
+                  clearInterval(animate);
+                } else {
+                  value++;
+                  bar.style.width = value + "%";
+                  text.textContent = value + "%";
+                }
+              }, 15);
+
+              obs.unobserve(bar);
+            }
+          });
+        }, {
+          threshold: 0.5
+        }
+      );
+
+      bars.forEach((bar) => {
+        bar.style.width = "0%";
+        const text = bar.querySelector(".progress-text");
+        if (text) text.textContent = "0%";
+        observer.observe(bar);
+      });
+    });
+  </script>
+</body>
+
+</html>
+
+<script>
+  const items = [{
+      title: "Ask For",
+      span: "DEMO",
+      modal: true
+    }, // Opens modal
+    {
+      title: "Job",
+      span: "PORTAL",
+      link: "https://trainerssquad.com/job-portal/wp-admin"
+    },
+    {
+      title: "Workday",
+      span: "Tenant Access",
+      modalImage: true,
+      img: "https://workdaytraining.co.in/assets/img/about/demo-2.png"
+    }
+  ];
+
+  const container = document.getElementById("marqueeContent");
+  const images = [
+    "assets/images/about/marqu-1.png",
+    "assets/images/about/marqu-2.png"
+  ];
+
+  let imgIndex = 0;
+
+  for (let i = 0; i < 2; i++) { // Duplicate for smooth scrolling
+    items.forEach(item => {
+      const bar = document.createElement("div");
+      bar.classList.add("Fix-bar");
+
+      // Alternate image selection
+      const currentImg = images[imgIndex % images.length];
+      imgIndex++;
+
+      if (item.modal) {
+        // For "Ask For DEMO" modal
+        bar.innerHTML = `
+          <a href="#" data-bs-toggle="modal" data-bs-target="#advisorModal">
+            <img src="${currentImg}" alt="${item.span}" />
+            <p>${item.title}<br><span>${item.span}</span></p>
+          </a>
+        `;
+      } else if (item.modalImage) {
+        // For "Tenant Access" modal (image-only)
+        bar.innerHTML = `
+          <a href="#" data-bs-toggle="modal" data-bs-target="#tenantModal">
+            <img src="${currentImg}" alt="${item.span}" />
+            <p>${item.title}<br><span>${item.span}</span></p>
+          </a>
+        `;
+      } else {
+        // For links like Job Portal
+        bar.innerHTML = `
+          <a href="${item.link}" target="_blank">
+            <img src="${currentImg}" alt="${item.span}" />
+            <p>${item.title}<br><span>${item.span}</span></p>
+          </a>
+        `;
+      }
+
+      container.appendChild(bar);
+    });
+  }
+</script>
+<script>
+  $('.marquee-carousel').owlCarousel({
+    loop: true, // infinite loop
+    margin: 30,
+    autoplay: true,
+    autoplayTimeout: 0, // 0 = continuous movement
+    autoplaySpeed: 15000, // lower = faster marquee
+    smartSpeed: 15000,
+    slideTransition: 'linear', // removes the stop animation
+    autoplayHoverPause: false, // do not stop on hover
+    responsive: {
+      0: {
+        items: 1
+      },
+      576: {
+        items: 2
+      },
+      768: {
+        items: 3
+      },
+      992: {
+        items: 4
+      }
+    }
+  });
+</script>
+<script>
+  $('.rs-carousel').owlCarousel({
+    loop: true,
+    margin: 30,
+    autoplay: false, // turn OFF autoplay (we use CSS instead)
+    dots: false,
+    nav: true,
+    responsive: {
+      0: {
+        items: 1
+      },
+      768: {
+        items: 2
+      },
+      992: {
+        items: 3
+      }
+    }
+  });
+</script>
+<script>
+  const track = document.getElementById("marqueeTrack");
+  const containerWidth = track.parentElement.offsetWidth;
+
+  // Duplicate until width > 2× container width (no empty gaps)
+  while (track.scrollWidth < containerWidth * 2) {
+    track.innerHTML += track.innerHTML;
+  }
+</script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const marquees = document.querySelectorAll('.partner-logo-track');
+
+    marquees.forEach(track => {
+      // Duplicate content to create seamless loop
+      const clone = track.innerHTML;
+      track.innerHTML += clone;
+    });
+  });
+</script>

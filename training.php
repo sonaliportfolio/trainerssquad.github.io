@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <!-- meta tag -->
+    <meta charset="utf-8">
+    <title>Educavo - Education HTML Template</title>
+    <meta name="description" content="">
+    <!-- responsive tag -->
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- favicon -->
+    <link rel="apple-touch-icon" href="apple-touch-icon.html">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav-orange.png">
+    <!-- Bootstrap v4.4.1 css -->
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+    <!-- font-awesome css -->
+    <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.min.css">
+    <!-- animate css -->
+    <link rel="stylesheet" type="text/css" href="assets/css/animate.css">
+    <!-- off canvas css -->
+    <link rel="stylesheet" type="text/css" href="assets/css/off-canvas.css">
+    <!-- linea-font css -->
+    <link rel="stylesheet" type="text/css" href="assets/fonts/linea-fonts.css">
+    <!-- flaticon css  -->
+    <link rel="stylesheet" type="text/css" href="assets/fonts/flaticon.css">
+    <!-- Main Menu css -->
+    <link rel="stylesheet" href="assets/css/rsmenu-main.css">
+    <!-- spacing css -->
+    <link rel="stylesheet" type="text/css" href="assets/css/rs-spacing.css">
+    <!-- style css -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <!-- This stylesheet dynamically changed from style.less -->
+    <!-- responsive css -->
+    <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
+    	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+
+</head>
+
+<body class="defult-home">
+
+    <!--Full width header Start-->
+      <?php include("include/header-2.php") ?>
+    <!--Full width header End-->
+
+    <!-- Main content Start -->
+    <div class="main-content">
+        <!-- Breadcrumbs Start -->
+        <div class="rs-breadcrumbs breadcrumbs-overlay">
+            <div class="breadcrumbs-img">
+                <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
+            </div>
+            <div class="breadcrumbs-text white-color">
+                <h1 class="page-title">Interview Questions</h1>
+                <ul>
+                    <li>
+                        <a class="active" href="index.html">Home</a>
+                    </li>
+                    <li>Interview Questions</li>
+                </ul>
+            </div>
+        </div>
+        <!-- Breadcrumbs End -->
+
+        <div class="rs-faq-part orange-color pt-5">
+              <div class="container">
+    <div class="row gx-5">
+      <div class="col-md-8">
+        <div class="content-wrapper">
+            <div class="post-content ">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="post-img">
+                    <img src="assets/images/training/training.jpg" alt="Image" class="img-fluid">
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <h2 class="post-subtitle">About Workday Training</h2>
+                  <p>Corporate Training is a focused learning program that enhances employees’ skills, knowledge, and performance. It helps bridge skill gaps, boosts productivity, and keeps teams updated with evolving technologies and business needs. This training strengthens workforce capability and supports long-term organizational growth</p>
+                
+                </div>
+              </div>
+
+              <h2 class="choose-heading mt-2">Why Choose Workday Training With Us?</h2>
+              <div class="row g-4">
+
+                <div class="col-md-4">
+                  <div class="choose-card">
+                    <div class="choose-icon">
+                      <img src="assets/images/training/curriculum.png" alt="Curriculum Icon">
+                    </div>
+                    <div>
+                      <h5 class="choose-title">Industry-Relevant Curriculum</h5>
+                      <p>Designed by certified Workday professionals to match real-world requirements.</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-4">
+                  <div class="choose-card">
+                    <div class="choose-icon">
+                      <img src="assets/images/training/hands-on.png" alt="Hands-on Icon">
+                    </div>
+                    <div>
+                      <h5 class="choose-title">Hands-on Learning</h5>
+                      <p>Practical sessions with tenant access for real-time practice.</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-4">
+                  <div class="choose-card">
+                    <div class="choose-icon">
+                      <img src="assets/images/training/trainer.png" alt="Trainer Icon">
+                    </div>
+                    <div>
+                      <h5 class="choose-title">Expert Trainers</h5>
+                      <p>Learn from Workday-certified consultants with years of project experience.</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-4">
+                  <div class="choose-card">
+                    <div class="choose-icon">
+                      <img src="assets/images/training/flexible.png" alt="Flexible Icon">
+                    </div>
+                    <div>
+                      <h5 class="choose-title">Flexible Modes</h5>
+                      <p>Instructor-led online training, self-paced learning, and corporate workshops.</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-4">
+                  <div class="choose-card">
+                    <div class="choose-icon">
+                      <img src="assets/images/training/career.png" alt="Career Icon">
+                    </div>
+                    <div>
+                      <h5 class="choose-title">Career Support</h5>
+                      <p>Resume preparation, interview guidance, and placement assistance.</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-4">
+                  <div class="choose-card">
+                    <div class="choose-icon">
+                      <img src="assets/images/training/support.png" alt="Support Icon">
+                    </div>
+                    <div>
+                      <h5 class="choose-title">Personalized Guidance</h5>
+                      <p>One-on-one mentoring to clarify doubts and guide your Workday career path.</p>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+
+
+
+            </div>
+        </div>
+      </div>
+      <div class="col-xl-4 col-lg-4 col-md-12 col-12">
+        <div class="sidebar">
+          <blockquote class="wp-block-quote">
+            <h4>Certification Guidance</h4>
+            <p>We provide full guidance to prepare you for Workday Certification exams with mock tests, assignments, and trainer-led reviews to boost your success rate.</p>
+            <i class="ri-double-quotes-l"></i>
+          </blockquote>
+
+          <div class="sidebar-widget categories box">
+
+            <h4>Who Can Enroll?</h4>
+            <div class="category-box">
+              <ul class="arrow-list">
+                <li>HR and Finance Professionals</li>
+                <li>Business Analysts & Consultants</li>
+                <li>Project Managers & System Administrators</li>
+                <li>IT Professionals exploring cloud ERP solutions</li>
+                <li>Fresh graduates aspiring to enter HR Tech / ERP domain</li>
+              </ul>
+            </div>
+          </div>
+          <div class="sidebar-widget categories box">
+
+            <h4>Career Benefits of Workday Training</h4>
+            <div class="category-box">
+              <ul class="arrow-list">
+                <li>High demand for Workday Consultants globally.</li>
+                <li>Competitive salaries and career growth opportunities.</li>
+                <li>Opportunities to work with top MNCs & Fortune 500 companies.</li>
+                <li>IT Professionals exploring cloud ERP solutions</li>
+                <li>Expertise in one of the most popular HCM & ERP cloud solutions.</li>
+              </ul>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+        </div>
+<!-- Blog Details end -->
+<section class="course-wrap pt-30">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="section-title style1 text-center mb-40">
+          <span>Training Program</span>
+          <h2>Choose a Plan that Works for You</h2>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-md-center">
+      <div class="col-xl-3 col-lg-4 col-md-6">
+        <div class="course-card trainings-sections">
+          <div class="course-img">
+            <a href="" data-bs-toggle="modal" data-bs-target="#advisorModal"><img src="assets/images/training/training-1.png" alt="Image" /></a>
+          </div>
+          <div class="course-info">
+            <h3 class="training-name">
+              <a href="">Self-Paced</a>
+            </h3>
+            <div class="course-rating">
+              <ul>
+                <li><i class="fas fa-star"></i></li>
+                <li><i class="fas fa-star"></i></li>
+                <li><i class="fas fa-star"></i></li>
+                <li><i class="fas fa-star"></i></li>
+                <li><i class="far fa-star"></i></li>
+              </ul>
+              <span>4 Ratings</span>
+            </div>
+            <ul class="feature-list-orange">
+              <li>Advanced sessions</li>
+              <li>Interview Q&A</li>
+              <li>Free study Materials</li>
+              <li>Premium Technical support</li>
+            </ul>
+          </div>
+          <div class="view-btn">
+            <a href="" data-bs-toggle="modal" data-bs-target="#advisorModal">Enroll Now </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-xl-3 col-lg-4 col-md-6">
+        <div class="course-card trainings-sections">
+          <div class="course-img">
+            <a href="" data-bs-toggle="modal" data-bs-target="#advisorModal"><img src="assets/images/training/training-2.png" alt="Image" /></a>
+          </div>
+          <div class="course-info">
+            <h3 class="training-name">
+              <a href="">Instructor-Led</a>
+            </h3>
+            <div class="course-rating">
+              <ul>
+                <li><i class="fas fa-star"></i></li>
+                <li><i class="fas fa-star"></i></li>
+                <li><i class="fas fa-star"></i></li>
+                <li><i class="fas fa-star"></i></li>
+                <li><i class="far fa-star"></i></li>
+              </ul>
+              <span>4 Ratings</span>
+            </div>
+            <ul class="feature-list-orange">
+              <li>Live Instructor</li>
+              <li>Advanced sessions</li>
+              <li>Interview Q&A</li>
+              <li>Premium Technical Support</li>
+            </ul>
+          </div>
+          <div class="view-btn">
+            <a href="" data-bs-toggle="modal" data-bs-target="#advisorModal">Enroll Now </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-xl-3 col-lg-4 col-md-6">
+        <div class="course-card trainings-sections">
+          <div class="course-img">
+            <a href="" data-bs-toggle="modal" data-bs-target="#advisorModal"><img src="assets/images/training/training-3.png" alt="Image" /></a>
+          </div>
+          <div class="course-info">
+            <h3 class="training-name">
+              <a href="">Corporate Training</a>
+            </h3>
+            <div class="course-rating">
+              <ul>
+                <li><i class="fas fa-star"></i></li>
+                <li><i class="fas fa-star"></i></li>
+                <li><i class="fas fa-star"></i></li>
+                <li><i class="fas fa-star"></i></li>
+                <li><i class="far fa-star"></i></li>
+              </ul>
+              <span>4 Ratings</span>
+            </div>
+            <ul class="feature-list-orange">
+              <li>Live Instructor</li>
+              <li>Advanced sessions</li>
+              <li>Interview Q&A</li>
+              <li>Premium Technical Support</li>
+            </ul>
+          </div>
+          <div class="view-btn">
+            <a href="" data-bs-toggle="modal" data-bs-target="#advisorModal">Enroll Now </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-xl-3 col-lg-4 col-md-6">
+        <div class="course-card trainings-sections">
+          <div class="course-img">
+            <a href="" data-bs-toggle="modal" data-bs-target="#advisorModal"><img src="assets/images/training/training-4.png" alt="Image" /></a>
+          </div>
+          <div class="course-info">
+            <h3 class="training-name">
+              <a href="">Certification Prep</a>
+            </h3>
+            <div class="course-rating">
+              <ul>
+                <li><i class="fas fa-star"></i></li>
+                <li><i class="fas fa-star"></i></li>
+                <li><i class="fas fa-star"></i></li>
+                <li><i class="fas fa-star"></i></li>
+                <li><i class="far fa-star"></i></li>
+              </ul>
+              <span>4 Ratings</span>
+            </div>
+            <ul class="feature-list-orange">
+              <li>Special crash course for Workday Pro</li>
+              <li>Industry Exposure</li>
+              <li>Career Growth</li>
+            </ul>
+          </div>
+          <div class="view-btn">
+            <a href="" data-bs-toggle="modal" data-bs-target="#advisorModal">Enroll Now </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+    </div>
+    <!-- Main content End -->
+
+
+    <!-- Footer Start -->
+    <footer id="rs-footer" class="rs-footer home9-style main-home">
+        <div class="footer-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-12 col-sm-12 footer-widget">
+                        <div class="footer-logo mb-30">
+                            <a href="index.html"><img src="assets/images/lite-logo.png" alt=""></a>
+                        </div>
+                        <div class="textwidget white-color pr-60 md-pr-15">
+                            <p>We denounce with righteous indi gnation and dislike men who are so beguiled and
+                                demoralized by the charms of pleasure of your moment, so blinded by desire those who
+                                fail weakness.</p>
+                        </div>
+                        <ul class="footer_social">
+                            <li>
+                                <a href="#" target="_blank"><span><i class="fa fa-facebook"></i></span></a>
+                            </li>
+                            <li>
+                                <a href="# " target="_blank"><span><i class="fa fa-twitter"></i></span></a>
+                            </li>
+
+                            <li>
+                                <a href="# " target="_blank"><span><i class="fa fa-pinterest-p"></i></span></a>
+                            </li>
+                            <li>
+                                <a href="# " target="_blank"><span><i class="fa fa-google-plus-square"></i></span></a>
+                            </li>
+                            <li>
+                                <a href="# " target="_blank"><span><i class="fa fa-instagram"></i></span></a>
+                            </li>
+
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
+                        <h3 class="widget-title">Address</h3>
+                        <ul class="address-widget">
+                            <li>
+                                <i class="flaticon-location"></i>
+                                <div class="desc">374 William S Canning Blvd, River MA 2721, USA</div>
+                            </li>
+                            <li>
+                                <i class="flaticon-call"></i>
+                                <div class="desc">
+                                    <a href="tel:(+880)155-69569">(+880)155-69569</a>
+                                </div>
+                            </li>
+                            <li>
+                                <i class="flaticon-email"></i>
+                                <div class="desc">
+                                    <a href="mailto:support@rstheme.com">support@rstheme.com</a>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 col-md-12 col-sm-12 pl-50 md-pl-15 footer-widget md-mb-50">
+                        <h3 class="widget-title">Courses</h3>
+                        <ul class="site-map">
+                            <li><a href="#">Courses</a></li>
+                            <li><a href="#">Course Two</a></li>
+                            <li><a href="#">Single Course</a></li>
+                            <li><a href="#">Profile</a></li>
+                            <li><a href="#">Login/Register</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 col-md-12 col-sm-12 footer-widget">
+                        <h3 class="widget-title">Recent Posts</h3>
+                        <div class="recent-post mb-20">
+                            <div class="post-img">
+                                <img src="assets/images/footer/1.jpg" alt="">
+                            </div>
+                            <div class="post-item">
+                                <div class="post-desc">
+                                    <a href="#">University while the lovely valley team work</a>
+                                </div>
+                                <span class="post-date">
+                                    <i class="fa fa-calendar"></i>
+                                    September 20, 2020
+                                </span>
+                            </div>
+                        </div>
+                        <div class="recent-post mb-20 md-pb-0">
+                            <div class="post-img">
+                                <img src="assets/images/footer/2.jpg" alt="">
+                            </div>
+                            <div class="post-item">
+                                <div class="post-desc">
+                                    <a href="#">High school program starting soon 2021</a>
+                                </div>
+                                <span class="post-date">
+                                    <i class="fa fa-calendar-check-o"></i>
+                                    September 14, 2020
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row y-middle">
+                    <div class="col-lg-6 md-mb-20">
+                        <div class="copyright">
+                            <p>&copy; 2020 All Rights Reserved. Developed By <a href="http://rstheme.com/">RSTheme</a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 text-right md-text-left">
+                        <ul class="copy-right-menu">
+                            <li><a href="#">Event</a></li>
+                            <li><a href="#">Blog</a></li>
+                            <li><a href="#">Contact</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- Footer End -->
+
+    <!-- start scrollUp  -->
+    <div id="scrollUp" class="orange-color">
+        <i class="fa fa-angle-up"></i>
+    </div>
+    <!-- End scrollUp  -->
+
+
+    <!-- modernizr js -->
+    <script src="assets/js/modernizr-2.8.3.min.js"></script>
+    <!-- jquery latest version -->
+    <script src="assets/js/jquery.min.js"></script>
+    <!-- Bootstrap v4.4.1 js -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <!-- Menu js -->
+    <script src="assets/js/rsmenu-main.js"></script>
+    <!-- op nav js -->
+    <script src="assets/js/jquery.nav.js"></script>
+    <!-- wow js -->
+    <script src="assets/js/wow.min.js"></script>
+    <!-- plugins js -->
+    <script src="assets/js/plugins.js"></script>
+    <!-- magnific popup js -->
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <!-- contact form js -->
+    <script src="assets/js/contact.form.js"></script>
+    <!-- main js -->
+    <script src="assets/js/main.js"></script>
+</body>
+
+
+</html>

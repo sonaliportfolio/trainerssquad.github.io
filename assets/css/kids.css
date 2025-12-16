@@ -1,0 +1,258 @@
+.kids-video {
+    position: relative;
+    width: 100%;          /* now responsive */
+ 
+    margin: 0 auto 0 0;   /* aligns right if parent has text-right */
+}
+
+.kids-video video {
+    width: 100%;
+    aspect-ratio: 1/1;    /* keeps perfect circle */
+    object-fit: cover;
+    border-radius: 50%;
+    display: block;
+    z-index: 2;
+    position: relative;
+}
+
+/* moving border */
+.moving-border {
+    position: absolute;
+    top: -5px;
+    left: -5px;
+    width: calc(100% + 10px);
+    height: calc(100% + 10px);
+    border: 5px dotted #e95d05;
+    border-radius: 50%;
+    animation: rotateBorder 4s linear infinite;
+    z-index: 1;
+}
+
+@keyframes rotateBorder {
+    from { transform: rotate(0deg); }
+    to   { transform: rotate(360deg); }
+}
+.services-item{
+    border: 1px solid #fff;
+    background: #fff;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+     height: 100%;
+   
+}
+.kids-course-section {
+    padding:20px 0;
+  
+}
+
+.kids-course-card {
+    background: #fff;
+    border-radius: 18px;
+    padding: 0;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    overflow: hidden;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0;
+    border: 5px solid #0139cd;
+}
+
+.kids-courses-img img {
+    width: 100%;
+    border-bottom: 3px solid #f4f4f4;
+}
+
+.kids-courses-body {
+    padding: 10px 10px 0px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.kids-course-name {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    background: linear-gradient(87deg, #0138d0, #e35f0b, #111111);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+/* ⭐ Age + Duration + Rating in one row */
+.kids-meta-row {
+    align-items: center;
+    margin-bottom: 0px;
+    font-size:15px;
+    font-weight: 600;
+    color: #e55f07;
+    text-align: center;
+}
+.kids-meta-row span{
+
+border-right: 3px solid #0138d0;
+
+padding:5px;
+}
+.kids-rating {
+    color: #0436ce;   /* GOLD STAR COLOR */
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.kids-course-list {
+    padding-left: 0;
+    margin-bottom: 20px;
+    list-style: none;
+}
+
+.kids-course-list li {
+    position: relative;
+    padding: 5px 0 5px 20px;
+    font-size: 14px;
+    border-bottom: 2px dotted #0237cf;
+}
+
+/* Arrow before list item */
+.kids-course-list li::before {
+    content: "➜";
+    position: absolute;
+    left: 0;
+    top: 7px;
+    font-size: 16px;
+    color: #e2742e;
+    font-weight: 700;
+}
+
+.kids-apply-btn {
+    background: linear-gradient(45deg, #e75c09, #1c19b0);
+    color: #fff;
+    padding: 5px;
+    border-radius: 8px;
+    text-align: center;
+    display: block;
+    font-weight: 600;
+    transition: 0.3s;
+    font-size: 18px;
+}
+
+.kids-apply-btn:hover {
+    background: #0138d0;
+    color:#fff;
+}
+.kids-apply-btn .arrow {
+    margin-left: 6px;
+    font-weight: 700;
+    transition: 0.3s;
+}
+
+.kids-apply-btn:hover .arrow {
+    margin-left: 10px;
+}
+
+@media (max-width: 767px) {
+    .kids-section-title {
+        font-size: 28px;
+    }
+
+    .kids-course-card {
+        margin-bottom: 20px;
+    }
+
+    .kids-meta-row {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 5px;
+    }
+}
+.categories-items{
+    height: 100%;
+    margin: 5px 0;
+}
+.cate-img i{
+   font-size: 50px;
+    background: linear-gradient(87deg, #0138d0, #e35f0b, #111111);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-align: center;
+}
+.kids-social-icon {
+    display: flex;
+    justify-content: space-between;   /* Spread 3 divs evenly */
+    align-items: center;
+    width: 100%;
+    padding: 5px 5px;
+    background: linear-gradient(90deg, hsl(224.06deg 99.04% 40.98%), hsl(23.18deg 92.44% 46.67%));
+    border-radius: 15px;
+}
+
+/* 1️⃣ Social Icons */
+.kids-social-icons-box {
+    display: flex;
+    gap: 11px;
+}
+
+.kids-social-icons-box a {
+    font-size: 15px;
+    color: #0138d0;
+    background: #ffffff;
+    padding: 6px;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+/* 2️⃣ Center Stats */
+.kids-stats-box {
+    text-align: center;
+    font-size: 16px;
+    color: #ffffff;
+    white-space: nowrap;
+}
+
+.kids-stats-box .divider {
+    margin: 0 8px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+/* 3️⃣ Email Right Side */
+.kids-email-box {
+    font-size: 16px;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.kids-email-box .divider {
+    color: #999;
+    font-weight: bold;
+}
+
+.kids-email-box a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Optional: hide on mobile */
+@media (max-width: 768px) {
+    .kids-social-icon {
+        display: none;
+    }
+}
+.book-btn{
+        border: 1px solid #fff;
+    background: #fff;
+    color: #0038d0 !important;
+    font-size: 16px;
+    font-weight: 700;
+}
