@@ -7603,7 +7603,7 @@ ul.listing-style.modify li:before {
   a {
   color: #111111 !important;
   font-weight: 600 !important;
-  padding-right: 21px !important;
+  padding-right: 13px !important;
   margin-right: unset !important;
   font-family: initial;
 }
@@ -25729,3 +25729,36 @@ th {
     font-size: 11px;
   }
 }
+
+.callback-left {
+  background: linear-gradient(90deg, hsla(20, 91%, 56%, 1) 0%, hsl(224.06deg 99.04% 40.98%) 100%);
+}
+
+.callback-right input {
+  height: 45px;
+  border-radius: 6px;
+  border: 1px solid #0044a9;
+}
+
+.modal-close {
+  position: absolute;
+  right: 15px;
+  top: 10px;
+  z-index: 10;
+}
+
+/* MOBILE DESIGN */
+@media (max-width: 767px) {
+  .modal-dialog {
+    margin: 10px;
+  }
+
+  .callback-right {
+    padding: 20px !important;
+  }
+
+  .modal-content {
+    border-radius: 12px;
+  }
+}
+
