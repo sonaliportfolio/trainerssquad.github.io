@@ -24,9 +24,8 @@
               <li>
                 <a href="# " target="_blank"><span><i class="fa fa-pinterest-p"></i></span></a>
               </li>
-              <li>
-                <a href="# " target="_blank"><span><i class="fa fa-google-plus-square"></i></span></a>
-              </li>
+             
+              
               <li>
                 <a href="# " target="_blank"><span><i class="fa fa-instagram"></i></span></a>
               </li>
@@ -34,25 +33,25 @@
           </div>
 
           <div class="col-lg-3 col-md-12 col-sm-12  footer-widget">
-            <h3 class="widget-title">Courses</h3>
+            <h3 class="widget-title">Quick Links</h3>
             <ul class="site-map">
-              <li><a href="#">Salesforce Training</a></li>
-              <li><a href="#">Workday Training</a></li>
-              <li><a href="#">AWS Training</a></li>
-              <li><a href="#">ServiceNow Training</a></li>
-              <li><a href="#">Data Science & AI</a></li>
-              <li><a href="#">Data Analytics & Power BI</a></li>
+              <li><a href="#">Workday Certification Training</a></li>
+              <li><a href="#">Workday Finance Training</a></li>
+              <li><a href="#">Workday HCM Functional Training</a></li>
+              <li><a href="#">Workday HCM Technical Training</a></li>
+              <li><a href="#">Workday HCM Techno Functional Training</a></li>
+            
             </ul>
           </div>
           <div class="col-lg-3 col-md-12 col-sm-12 pl-50 footer-widget ">
             <h3 class="widget-title">Courses</h3>
             <ul class="site-map">
-              <li><a href="#">Microsoft Azure Training</a></li>
-              <li><a href="#">Software Testing Training</a></li>
-              <li><a href="#">DataBase Training</a></li>
-              <li><a href="#">Blockchain Training</a></li>
-              <li><a href="#">Web Development Training</a></li>
-              <li><a href="#">Digital Marketing Training</a></li>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="about-us.html">About Us</a></li>
+              <li><a href="training.html">Training</a></li>
+              <li><a href="kids-coading.html">Kids Coading</a></li>
+              <li><a href="french-course.html">language</a></li>
+             
             </ul>
           </div>
           <div class="col-lg-3 col-md-12 col-sm-12 footer-widget ">
